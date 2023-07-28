@@ -41,6 +41,14 @@ font-weight: 700;
     text-decoration: none;
 }
 
+.nav-buttons button{
+    border:none;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+
+}
+
 .nav-buttons img{
    margin-top: 8px;
     width: 30px;
