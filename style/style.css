@@ -54,7 +54,7 @@ font-weight: 700;
     justify-content: space-between;
 }
 .banner-description{
-    background-image: url(/images/Group\ 14.png);
+    background-image: url(./images/Group\ 14.png);
     display: flex;
     flex-direction:column; 
     margin: 0; 
@@ -490,7 +490,7 @@ line-height: normal;
 
 }
 .banner-description{
-    background-image: url(/images/Group\ 14.png);
+    background-image: url(./images/Group\ 14.png);
     display: flex;
     flex-direction:column; 
     justify-content: center;
