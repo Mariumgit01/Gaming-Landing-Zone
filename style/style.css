@@ -297,6 +297,7 @@ left: -110px;
     display: flex;
     flex-direction: column;
     margin-left: 240px ;
+    background-image: url(./images/Group\ 14.png);
 }
 
 .careers-des h2{
